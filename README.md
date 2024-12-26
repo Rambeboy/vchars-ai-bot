@@ -80,4 +80,4 @@ This bot is for educational purposes only. Make sure to comply with vChars.ai's 
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
