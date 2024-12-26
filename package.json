@@ -1,0 +1,25 @@
+{
+  "name": "vcharai-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vchars-ai",
+    "bot",
+  ],
+  "author": "Rambeboy",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "figlet": "^1.8.0",
+    "groq": "^3.68.3",
+    "groq-sdk": "^0.9.1",
+    "inquirer": "^12.3.0",
+    "winston": "^3.17.0"
+  }
+}
