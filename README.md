@@ -48,7 +48,7 @@ npm install
 
 2. Configure GROQ API:
 - Get your API key from [Groq Console](https://console.groq.com/keys)
-- Replace the `groq_api_key` in `main.js` with your key
+- Replace the `groq_api_key` in `index.js` with your key
 
 ## Usage
 
